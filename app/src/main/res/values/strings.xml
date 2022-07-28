@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToanS2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_s">S</string>
+    <string name="number_2">2</string>
+    <string name="welcome">Welcome</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="slogun1">Học</string>
+    <string name="slogun2">Toán</string>
+    <string name="slogun3">Cao</string>
+    <string name="slogun4">Cấp</string>
+    <string name="slogun5">Tại</string>
+
+</resources>
